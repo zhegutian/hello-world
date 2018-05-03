@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi humans!
+Jane here.l'm tring learning code.It's hard to survive on your earth...
